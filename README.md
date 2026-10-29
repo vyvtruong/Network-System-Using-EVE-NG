@@ -1,4 +1,1 @@
-• Thiết kế và triển khai mô hình hạ tầng mạng trên EVE-NG sử dụng Linux Server.
-• Cấu hình và quản trị các dịch vụ mạng gồm DHCP, DNS, Samba File Server, Apache Web Server và SSH.
-• Triển khai hệ thống giám sát tập trung bằng Zabbix vfa quản trị từ xa thông qua Apache Guacamole
-• Kiểm thử, xủ lý sự cố, đánh giá hoạt động của hệ thống nhằm đảm bảo khả năng kết nối, chia sẻ tài nguyên và giám sát ổn định.
+Thiết kế và triển khai mô hình hạ tầng mạng trên EVE-NG sử dụng Linux Server. Cấu hình và quản trị các dịch vụ mạng gồm DHCP, DNS, Samba File Server, Apache Web Server và SSH. Triển khai hệ thống giám sát tập trung bằng Zabbix và quản trị từ xa thông qua Apache Guacamole Kiểm thử, xủ lý sự cố, đánh giá hoạt động của hệ thống nhằm đảm bảo khả năng kết nối, chia sẻ tài nguyên và giám sát ổn định.
